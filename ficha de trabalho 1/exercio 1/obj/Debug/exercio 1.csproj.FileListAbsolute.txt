@@ -1,0 +1,7 @@
+C:\Users\pedro\OneDrive\ISTEC\2º ano\PETD\ficha de trabalho 1\exercio 1\obj\Debug\exercio 1.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\ISTEC\2º ano\PETD\ficha de trabalho 1\exercio 1\obj\Debug\exercio 1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\ISTEC\2º ano\PETD\ficha de trabalho 1\exercio 1\bin\Debug\exercio 1.exe.config
+C:\Users\pedro\OneDrive\ISTEC\2º ano\PETD\ficha de trabalho 1\exercio 1\bin\Debug\exercio 1.exe
+C:\Users\pedro\OneDrive\ISTEC\2º ano\PETD\ficha de trabalho 1\exercio 1\bin\Debug\exercio 1.pdb
+C:\Users\pedro\OneDrive\ISTEC\2º ano\PETD\ficha de trabalho 1\exercio 1\obj\Debug\exercio 1.exe
+C:\Users\pedro\OneDrive\ISTEC\2º ano\PETD\ficha de trabalho 1\exercio 1\obj\Debug\exercio 1.pdb
